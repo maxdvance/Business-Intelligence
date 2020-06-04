@@ -1,0 +1,10 @@
+Tableau Funnel analysis:
+
+1) Create Calculated Field;
+2) Set the negative measure, i.e. -[measure];
+3) Sort ascending by the measure;
+4) Put the dimension in Color;
+5) Adjust the size to the maximum;
+6) Entire view;
+7) Adjust if there is any divider (borders) or grid lines (lines).
+8) Done! (Pure funnel analysis chart is created!)
