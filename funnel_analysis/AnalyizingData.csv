@@ -1,0 +1,7 @@
+Action,Count,Percentage,Remarks
+Total Session (Visit),1565023,100%,
+Session with editorial click and banner click,1170948,75%,"Remove click source (festival_layout_click, remove_item_click, circle_opt_in outbound_click)"
+Session with product view,949042,61%,"Remove click source (editorial_click, banner_click)"
+Session with add-to-cart,71452,5%,"Remove product click action (product click, find_similar)"
+Session with check-out,52518,3%,Remove add-to-cart action
+Session with transaction,47999,3%,Remove checkout action
