@@ -1,0 +1,23 @@
+GA web UI:
+- Ad hoc reporting
+- Quick and simple data pulls - only 1 - 2 dimentions
+- Analysis and exploration: Segments
+
+Tableau:
+- Joining with other data 
+- Ongoing reporting
+- Stakeholder dashboards, e.g. Summary report on total visits, total pageviews, homepage views, total registration
+- In-depth analysis, e.g. BiWeekly report on banner performance comparing to last 2 weeks like total banner clicks, total homepage views, CTR (unique clicks/ unique pageviews), new registration, banner purchase/ total purchase, banner purchase/ banner clicks 
+- Quick QA
+
+Internal bucket vs GA channels:
+Direct  = Direct
+SEO = Organic Search
+Facebook editorial/ ads/ referral = Social
+Other Referral = Referral
+EDM
+
+Internal tracking device platform vs GA operating system:
+Web vs Windows/ Linux/ ...
+Android = Android
+iOS = iOS
