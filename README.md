@@ -2,16 +2,23 @@
 
 ## Showcases:
 
+Tableau:
+
+- https://public.tableau.com/app/discover
+- https://exchange.tableau.com/accelerators
+
 PowerBI:
 - https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery
 - http://www.chinapowerbi.com/Works.html?activityId=18
 - https://tools.powerbi.tips/themes/gallery
 
+## Industry practices/ Tricks
+
 Tableau:
 
-- https://public.tableau.com/app/discover
-
-## Industry practices/ Tricks
+### Best practices
+- https://exceleratorbi.com.au/best-practices-power-pivot-power-query-power-bi/
+- https://help.tableau.com/current/pro/desktop/en-us/dashboards_best_practices.htm
 
 PowerBI:
 
